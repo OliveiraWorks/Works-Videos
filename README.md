@@ -22,7 +22,7 @@ Projeto que analisa imagens para identificar objetos ou padrões específicos.
 **Tecnologias:** Python, OpenCV
 
 **Demonstração:**  
-![Análise de Imagens](videos/image_analysis.mp4)
+![Análise de Imagens](computervision.mp4)
 
 ---
 
