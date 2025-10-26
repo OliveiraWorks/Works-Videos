@@ -12,7 +12,7 @@ Rede neural que aprende a jogar Flappy Bird usando aprendizado por reforço.
 **Tecnologias:** Python, TensorFlow
 
 **Demonstração:**  
-![FlappyBird AI](videos/flappybird_training.mp4)
+![FlappyBird AI](NeuralNetwork_LearningFlappyBird.mp4)
 
 ---
 
